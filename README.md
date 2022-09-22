@@ -1,6 +1,6 @@
 ### Hello, my name is Lucas Almeida 👋,
 
-[![Blog](https://img.shields.io/website?label=lucasalmeida-ux.github.io/blog/&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://lucasalmeida-ux.github.io/blog/)
+[![Blog](https://img.shields.io/website?label=lucsa.dev/&style=for-the-badge&url=https://lucsa.dev/)](lucsa.dev)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassalmeida/)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalmeida-ux&show_icons=true&theme=dracula&count_private=true)
