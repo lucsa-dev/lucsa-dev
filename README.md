@@ -1,4 +1,4 @@
-### Hello, my name is Lucas Almeida 👋,
+### Hello, my name is Lucas S. Almeida 👋,
 
 [![Blog](https://img.shields.io/website?label=lucsa.dev/&style=for-the-badge&url=https://lucsa.dev/)](lucsa.dev)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassalmeida/)
